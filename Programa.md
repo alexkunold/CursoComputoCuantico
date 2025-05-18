@@ -19,7 +19,7 @@
 #### Sesión 2:
 >1. Operadores cuánticos y su acción sobre qubits
 >1. Breve introducción a Qiskit
->1. Ejercicio: creación de un circuito básico de 1 qubit en Qiskit y visualización de su estado
+>    - Ejercicio: creación de un circuito básico de 1 qubit en Qiskit y visualización de su estado
 
 ### Semana 2
 #### Sesión 3:
@@ -83,7 +83,8 @@
 >    - Ejercicio práctico: construir una compuerta arbitraria con compuertas básicas + CNOT
 >1. Introducción a los estados de Bell
 
-## Parte III – Algoritmos Cuánticos y Proyecto Final (Semanas 8 a 11)
+## Parte III – Algoritmos Cuánticos y Proyecto Final
+**Semanas 8 a 11**
 
 > **Objetivo:** Comprender y aplicar algoritmos cuánticos. Los estudiantes trabajarán en un proyecto final.
 
