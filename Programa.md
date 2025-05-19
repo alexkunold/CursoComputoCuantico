@@ -11,10 +11,12 @@
 
 ### Semana 1
 #### Sesión 1:
->1. Introducción al curso y objetivos
+>1. Introducción al curso, objetivos y programa de estudios.
 >1. Historia de la computación cuántica
->1. El estado cuántico como vector o matriz
->1. Notación bra-ket y qubits
+>1. Aplicaciones de la computación cuántica
+>1. Tipos de computadoras cuánticas
+>1. Cómputo Cuántico. ¿Qué es?
+>1. Qubits y bra-kets 
 
 #### Sesión 2:
 >1. Operadores cuánticos y su acción sobre qubits
