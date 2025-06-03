@@ -25,10 +25,17 @@
 
 ### Semana 2
 #### Sesión 3:
->1. La ecuación de Schrödinger y el Hamiltoniano
->1. El operador de evolución temporal como matriz unitaria
+>1. Análisis de algunos ejemplos de circuitos de un qubit usando las compuertas M, X y H.
+>1. Análisis de alugnos ejemplos de circuitos de un qubit usando las compuertas M, X y H.
+
 
 #### Sesión 4:
+>1. La ecuación de Schrödinger y el Hamiltoniano
+>2. El operador de evolución temporal como matriz unitaria
+>3. Qubits y compuertas cuánticas como vectores y matrices
+>4. Ejercicio en Qiskit: compuerta Hadamard y medición
+>5. Visualización de estados con plot_bloch_multivector
+
 >1. Qubits y compuertas cuánticas como vectores y matrices
 >1. Ejercicio en Qiskit: compuerta Hadamard y medición
 >1. Visualización de estados con plot_bloch_multivector
