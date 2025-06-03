@@ -36,10 +36,6 @@
 >4. Ejercicio en Qiskit: compuerta Hadamard y medición
 >5. Visualización de estados con plot_bloch_multivector
 
->1. Qubits y compuertas cuánticas como vectores y matrices
->1. Ejercicio en Qiskit: compuerta Hadamard y medición
->1. Visualización de estados con plot_bloch_multivector
-
 ### Semana 3
 #### Sesión 5:
 >1. Instalación de Qiskit en Colab
