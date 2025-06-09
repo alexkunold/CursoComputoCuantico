@@ -38,13 +38,12 @@
 
 ### Semana 3
 #### Sesión 5:
->1. Instalación de Qiskit en Colab
->1. Estructura de un circuito en Qiskit: QuantumCircuit, Aer, execute
->    - Ejercicio: medición de un qubit en distintas bases
-
-#### Sesión 6:
->1. Determinación y visualización del estado cuántico
->    - Ejercicio: superposición con Hadamard + medición estadística
+>1. Haciendo mediciones en distintas bases
+> - Ejercicio: medición de un qubit en distintas bases
+>2. La compuerta unitaria general de un qbit
+>3. La compuerta CNOT o CX
+>4. La compuerta CU (unitaria controlada)
+> - Ejercicio: Implementar la compuerta CU
 
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
