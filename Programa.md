@@ -21,29 +21,37 @@
 #### Sesión 2:
 >1. Operadores cuánticos y su acción sobre qubits
 >1. Breve introducción a Qiskit
->    - Ejercicio: creación de un circuito básico de 1 qubit en Qiskit y visualización de su estado
+> - Ejercicio: creación de un circuito básico de 1 qubit en Qiskit y visualización de su estado
 
 ### Semana 2
 #### Sesión 3:
 >1. Análisis de algunos ejemplos de circuitos de un qubit usando las compuertas M, X y H.
->1. Análisis de alugnos ejemplos de circuitos de un qubit usando las compuertas M, X y H.
-
+>1. Análisis de alugnos ejemplos de circuitos de varios qubits usando las compuertas M, X y H.
+> - Ejercicio: Escribir el código de varios circuitos en Qiskit y analizarlos teóricamente
 
 #### Sesión 4:
 >1. La ecuación de Schrödinger y el Hamiltoniano
 >2. El operador de evolución temporal como matriz unitaria
 >3. Qubits y compuertas cuánticas como vectores y matrices
 >4. Ejercicio en Qiskit: compuerta Hadamard y medición
->5. Visualización de estados con plot_bloch_multivector
+>5. Visualización de estados con `plot_bloch_multivector`
 
 ### Semana 3
 #### Sesión 5:
->1. Haciendo mediciones en distintas bases
+>1. Síntesis de compuertas de un qubit
+>2. Síntesis de compuertas de varios qubits
+>3. Transpilación con bases de matrices
+>4. Transpilación con una computadora cuántica genérica
+>5. Profundidad de los circuitos cuánticos
+> - Ejercicio: Implementar compuertas unitarias con `QuantumCircuit.unitary()`, transpilar con una base de matrices y con una computadora cuántica genérica. Cálculo de la profundidad del circuito.
+
+### Semana 4
+#### Sesión 6:
+>1. Compuertas controladas
+>2. La compuerta CU (unitaria controlada)
+> - Ejercicio: implementación de una compuerta CU
+>3. Haciendo mediciones en distintas bases
 > - Ejercicio: medición de un qubit en distintas bases
->2. La compuerta unitaria general de un qbit
->3. La compuerta CNOT o CX
->4. La compuerta CU (unitaria controlada)
-> - Ejercicio: Implementar la compuerta CU
 
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
@@ -65,7 +73,7 @@
 
 #### Sesión 10:
 >1. Implementación práctica de compuertas de un qubit en Qiskit
->1. Ejercicio: secuencia de compuertas y evolución del estado
+> - Ejercicio: secuencia de compuertas y evolución del estado
 
 ### Semana 6
 #### Sesión 11:
