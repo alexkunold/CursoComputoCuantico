@@ -47,6 +47,13 @@
 
 ### Semana 4
 #### Sesión 6:
+>1. Mediciones en bases de estados arbitrarios
+>2. Retroceso de fase (phase kickbak)
+>- Ejercicio: Medir un estado en bases arbitrarias
+
+
+### Semana 4
+#### Sesión 6:
 >1. Compuertas controladas
 >2. La compuerta CU (unitaria controlada)
 > - Ejercicio: implementación de una compuerta CU
