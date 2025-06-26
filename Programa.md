@@ -51,14 +51,23 @@
 >2. Retroceso de fase (phase kickbak)
 >- Ejercicio: Medir un estado en bases arbitrarias
 
+### Semana 5
+#### Sesión 7:
+>1. Preparación de estados con la matriz de Householder
+>2. Medición de las fases de las amplitudes de probabilidad con phase kickbak
+>- Ejercicio: Preparar un estado usando la matriz de Householder y medir las probabilidades y fases usando phase kickbak con Mathematica
+>- Ejercicio: Preparar un estado usando la matriz de Householder y medir las probabilidades y fases usando phase kickbak con un circuito de Qiskit
 
-### Semana 4
-#### Sesión 6:
->1. Compuertas controladas
->2. La compuerta CU (unitaria controlada)
-> - Ejercicio: implementación de una compuerta CU
->3. Haciendo mediciones en distintas bases
-> - Ejercicio: medición de un qubit en distintas bases
+#### Sesión 8:
+>1. Introducción al entrelazamiento cuántico.
+>2. Compuertas controladas
+>1. La compuerta CNOT = CX
+>2. Implementación de CX
+>3. Implementación de cualquier compuerta controlada: CH y CU
+>4. Propiedades de las compuertas controladas
+>5. Cambio de control de una compuerta controlada
+>6. Productos de compuertas controladas
+
 
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
