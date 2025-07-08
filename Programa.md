@@ -74,11 +74,16 @@
 >2. Los estados de Bell
 >- Ejercicio: Preparar los estados de Bell por medio de Qiskit
 
-### Sesión 10:
+#### Sesión 10:
 >1. Tomografía cuántica de los estados de Bell con Mathematica
 >2. Tomografía cuántica de los estados de Bell con Qiskit
 > - Ejercicio: implementar el algoritmo de tomografía cuántica para los estados de Bell
 
+### Semana 7
+#### Sesión 11:
+> 1. Teoría de la simulación cuántica
+> 2. Tomografía cuántica de la simulación cuántica
+> - Ejercicio: implementar en Qiskit la simulación cuántica de un espín 1/2 en un campo magnético.
 
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
