@@ -85,6 +85,13 @@
 > 2. Tomografía cuántica de la simulación cuántica
 > - Ejercicio: implementar en Qiskit la simulación cuántica de un espín 1/2 en un campo magnético.
 
+#### Sesión 12:
+> 1. Implementación en Qiskit de una simulación cuantica de una partícula de espín 1/2 en presencia de un campo magnético.
+> 2. Implementación en Python de un algoritmo clásico para estudiar la dinámica de una partícula de espín 1/2 en presencia de un campo magnético.
+> 3. Comparación entre los algoritmos clásico y cuántico.
+> - Ejercicio: Implementar en Qiskit la simulación cuántica de un espín 1/2 en un campo magnético obteniendo la evolución temporal completa.
+> - Ejercicio: Implementar en Python la dinámica por medio de un algoritmo clásico de un espín 1/2 en un campo magnético obteniendo la evolución temporal completa.
+
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
 > **Objetivo:** Dominar la construcción de circuitos cuánticos en Qiskit y entender formalmente los elementos básicos de la computación cuántica.
