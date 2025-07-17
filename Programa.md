@@ -92,6 +92,14 @@
 > - Ejercicio: Implementar en Qiskit la simulación cuántica de un espín 1/2 en un campo magnético obteniendo la evolución temporal completa.
 > - Ejercicio: Implementar en Python la dinámica por medio de un algoritmo clásico de un espín 1/2 en un campo magnético obteniendo la evolución temporal completa.
 
+### Semana 8
+#### Sesiones 13 y 14:
+>1. Implementación en Qiskit de la simulación cuántica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
+>2. Implementación en Python del algoritmo clásico de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
+> - Ejercicio: Implementar con Qiskit la simulación cuántica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
+> - Ejercicio: Implementar con Python el algoritmo clásico de la dinámica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
+> - Ejercicio: Comparar los resultados de los algoritmos cuántico y clásico.
+
 # Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
 **Semanas 4 a 7**
 > **Objetivo:** Dominar la construcción de circuitos cuánticos en Qiskit y entender formalmente los elementos básicos de la computación cuántica.
