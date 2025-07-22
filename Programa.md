@@ -2,7 +2,7 @@
 
 > - **Duración:** 11 semanas
 > - **Sesiones:** 2 por semana, 2 horas 15 minutos cada una
-> - **Formato:** Teórico-práctico (con Qiskit en Google Colab)
+> - **Formato:** Teórico-práctico (con Qiskit en Google Colab y Mathematica)
 
 ## Parte 1 Fundamentos de mecánica cuántica para computación
 **Semanas 1 a 8**
