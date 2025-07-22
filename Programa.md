@@ -4,10 +4,25 @@
 > - **Sesiones:** 2 por semana, 2 horas 15 minutos cada una
 > - **Formato:** Teórico-práctico (con Qiskit en Google Colab)
 
+## Parte 1 Fundamentos de mecánica cuántica para computación
+**Semanas 1 a 8**
 
-## Parte I – Fundamentos de Mecánica Cuántica para Computación
-**Semanas 1 a 3**
-> **Objetivo:** Introducir conceptos de mecánica cuántica esenciales para entender el cómputo cuántico. Se incluirán ejemplos en Qiskit desde la segunda sesión.
+**Objetivos:**
+
+> 1. Introducir conceptos básicos de mecánica cuántica útiles para la computación cuántica. Algunos de estos conceptos son:
+> a. Ecuación de Scrhodinger.
+> b. Qbits como estados cuánticos.
+> c. Evolución temporal.
+> d. Compuertas cuánticas como operadores unitarios.
+> e. Circuitos cuánticos
+
+> 2. Aplicar estos conceptos básicos en algunos algoritmos simples como:
+> a. Preparación de estados cuánticos.
+> b. Tomografía cuántica.
+> c. Producción de estados de Bell.
+> d. Simulación cuántica.
+
+**Programa:**
 
 ### Semana 1
 #### Sesión 1:
@@ -93,92 +108,27 @@
 > - Ejercicio: Implementar en Python la dinámica por medio de un algoritmo clásico de un espín 1/2 en un campo magnético obteniendo la evolución temporal completa.
 
 ### Semana 8
-#### Sesiones 13 y 14:
+#### Sesión 13:
 >1. Implementación en Qiskit de la simulación cuántica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
 >2. Implementación en Python del algoritmo clásico de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
 > - Ejercicio: Implementar con Qiskit la simulación cuántica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
 > - Ejercicio: Implementar con Python el algoritmo clásico de la dinámica de dos partículas de espín 1/2 en presencia de un campo magnético y bajo la interacción de intercambio.
 > - Ejercicio: Comparar los resultados de los algoritmos cuántico y clásico.
 
-# Parte II – Introducción Formal a Qiskit y Circuitos Cuánticos
-**Semanas 4 a 7**
-> **Objetivo:** Dominar la construcción de circuitos cuánticos en Qiskit y entender formalmente los elementos básicos de la computación cuántica.
+# Parte 2 Algoritmos cuánticos
+**Semanas 9 a 11**
 
-### Semana 4
-#### Sesión 7:
->1. Representación de un qubit como vector, matriz y ket
->1. Estado cuántico de múltiples qubits
+**Objetivos:**
+> 1. Usando los conocimientos obtenidos en la Partte 1 implementar algoritmos cuánticos tales como:
+> a. Bernstein-Vazerani
+> b. Transformación cuántica de Fourier (QFT)
+> c. Estimación de fase
+> d. Variational Quantum Eigensolver (VQE)
+> e. Deutsch-Jozsa
 
-#### Sesión 8:
->1. Producto de Kronecker
->    - Ejercicio: crear circuitos de 2 qubits en Qiskit, medir y analizar
+**Programa:**
 
-### Semana 5
-#### Sesión 9:
->1. Representación de compuertas de un qubit como matrices y operadores
->1. Compuerta Hadamard, Pauli X, Y, Z, fase S, T
-
-#### Sesión 10:
->1. Implementación práctica de compuertas de un qubit en Qiskit
-> - Ejercicio: secuencia de compuertas y evolución del estado
-
-### Semana 6
-#### Sesión 11:
->1. Compuertas de más de un qubit
->1. Producto de Kronecker en compuertas multiqubit
-
-#### Sesión 12:
->1. Compuerta CNOT: definición, acción y visualización
->    - Ejercicio: demostración de entrelazamiento con Hadamard + CNOT
-
-### Semana 7
-#### Sesión 13:
->1. Compuerta general de un qubit: parametrización
->1. Teorema de universalidad
-
-#### Sesión 14:
->1. Cadenas de Pauli
->1. Las compuertas de cadenas de Pauli
->    - Ejercicio práctico: construir una compuerta arbitraria con compuertas básicas + CNOT
->1. Introducción a los estados de Bell
-
-## Parte III – Algoritmos Cuánticos y Proyecto Final
-**Semanas 8 a 11**
-
-> **Objetivo:** Comprender y aplicar algoritmos cuánticos. Los estudiantes trabajarán en un proyecto final.
-
-### Semana 8
-#### Sesión 15:
->1. Estados de Bell: teoría y construcción
->    - Ejercicio: construcción de los 4 estados de Bell
-
-#### Sesión 16:
->1. Medición en estados entrelazados
->1. Entropía de entrelazamiento (introductoria y cualitativa)
-
-### Semana 9
-#### Sesión 17:
->1. Introducción al algoritmo de determinación de fase
->    - Ejercicio en Qiskit: construcción del circuito de fase
-
-#### Sesión 18:
->1. Teoría del algoritmo de VQE (Variational Quantum Eigensolver)
->1. Idea de funciones costo y optimización clásica
-
-### Semana 10
-#### Sesión 19:
->1. Implementación práctica del VQE con un Hamiltoniano simple (ej. de H₂)
->1. Uso del módulo qiskit.algorithms y qiskit_nature
-
-#### Sesión 20:
->1. Inicio del proyecto final (en parejas o individual)
->1. Definición del problema y diseño del circuito
-
-### Semana 11
-#### Sesión 21:
->1. Asesoría y revisión de avances de los proyectos
->1. Preguntas abiertas y discusión de problemas
-
-#### Sesión 22:
-> 1. Presentación de proyectos finales
-> 1. Retroalimentación grupal y cierre del curso
+Semana 9
+Sesión 15:
+1. El algoritmo de Bernstein-Vazirani
+- Ejercicio: Implementación del algoritmo de Bernstein-Vazirani en Qiskit
