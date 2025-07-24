@@ -128,7 +128,30 @@
 
 **Programa:**
 
-Semana 9
-Sesión 15:
-1. El algoritmo de Bernstein-Vazirani
-- Ejercicio: Implementación del algoritmo de Bernstein-Vazirani en Qiskit
+### Semana 9
+#### Sesión 15:
+> 1. El algoritmo de Bernstein-Vazirani
+> - Ejercicio: Implementación del algoritmo de Bernstein-Vazirani en Qiskit
+
+#### Sesión 16:
+> 1. El circuito cuántico del algoritmo de Deutsch-Jozsa.
+> 2. Funciones binarias como transformaciones unitarias.
+> 3. Funciones constantes y funciones balanceadas.
+> 4. Análisis teórico del algoritmo de Deutsch-Jozsa.
+> - Ejercicio: Implementación del algoritmo de Deutsch-Jozsa en Qiskit.
+
+### Semana 10
+#### Sesión 16:
+> 1. Implementación de los alumnos de diversos algoritmos
+
+#### Sesión 17:
+> 1. Implementación de los alumnos de diversos algoritmos.
+
+### Semana 11
+#### Sesión 18:
+> 1. Presentación de los algoritmos de los alumnos.
+
+#### Sesión 19:
+> 1. Presentación de los algoritmos de los alumnos.
+
+
