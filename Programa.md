@@ -22,6 +22,10 @@
 > c. Producción de estados de Bell.
 > d. Simulación cuántica.
 
+**Lista de reproducción de las clases**
+
+[Youtube Cómputo Cuántico ](https://www.youtube.com/playlist?list=PLjxJ-S12oTd5jTTAsQUoWqNT60uXOAtRW)
+
 **Programa:**
 
 ### Semana 1
@@ -145,7 +149,11 @@
 > 1. Implementación de los alumnos de diversos algoritmos
 
 #### Sesión 17:
-> 1. Implementación de los alumnos de diversos algoritmos.
+> 1. Implementación de algoritmos por los alumnos.
+> 1. Algoritmo de la transformada cuántica de Fourier
+> 2. Algoritmo de estimación de la fase
+> 3. Algoritmo de Grover
+> 4. Algoritmo de simulación cuántica de la matriz de densidad
 
 ### Semana 11
 #### Sesión 18:
