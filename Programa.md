@@ -4,6 +4,10 @@
 > - **Sesiones:** 2 por semana, 2 horas 15 minutos cada una
 > - **Formato:** Teórico-práctico (con Qiskit en Google Colab y Mathematica)
 
+## Bibliografía
+> - Mikio Nakahara, Tetsuo Ohmi, Quantum Computing. From Linear Algebra to Physical Realizations (CRC Press, USA, 2008)
+> - Michael A. Nielsen, Isaac L. Chuang Quantum Computation and Quantum Information (Cambridge University Press, UK, 2010)
+
 ## Parte 1 Fundamentos de mecánica cuántica para computación
 **Semanas 1 a 8**
 
